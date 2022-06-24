@@ -125,6 +125,7 @@ Partial Class frmDepartamentosEditar
         Me.MaximizeBox = False
         Me.MinimizeBox = False
         Me.Name = "frmDepartamentosEditar"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent
         Me.Text = "Netspeed - Desafio Desenvolvimento"
         Me.TableLayoutPanel1.ResumeLayout(False)
         Me.TableLayoutPanel1.PerformLayout()

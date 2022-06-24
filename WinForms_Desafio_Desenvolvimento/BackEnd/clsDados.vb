@@ -34,6 +34,10 @@ Public Class Dados
 
         Return dtChamados
 
+
+
+
+
     End Function
 
     Public Shared Function ListarDepartamentos() As DataTable
